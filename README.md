@@ -17,7 +17,7 @@ Aplicación que permite navegar entre diferentes vistas usando un **iframe**:
 - Visualización dinámica en iframe
 - Operaciones básicas en calculadora (+, -, *, /)
 
-## 📷 Vista
+## Vista
 Proyecto sencillo con diseño moderno inspirado en el estilo de anime de naruto
 
 ---
